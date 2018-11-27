@@ -16,5 +16,5 @@
 
 ## 응용 오픈소스코드
 
-저희 이번 프로젝트에서는 [GitHud][https://github.com/nayuki/QR-Code-generator] 와 [GitHub][https://github.com/woongbak/Steganography]를
+저희 이번 프로젝트에서는 https://github.com/nayuki/QR-Code-generator 와 https://github.com/woongbak/Steganography 를
 가지고 프로젝트를 진행하려고 합니다.
